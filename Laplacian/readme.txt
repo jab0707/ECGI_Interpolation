@@ -1,0 +1,1 @@
+Code for generating a laplacian interpolation matrix. The SCIRun5 network produces a slightly superior result and is suggested, though its use can be more complicated. Matlab code to produce laplacian interpolation is also provided.
