@@ -1,0 +1,1 @@
+This folder includes the codes and sample data for running the IDS interpolation for completing the missing/bad BSP leads and computing the Tikhonov regularization on 'FULL', 'RMV' and 'IDS' cases.
