@@ -1,0 +1,1 @@
+krigingWeights creates weights to be used in the kriging Interpolation. Also included are the inverse forward interpolation functions.
